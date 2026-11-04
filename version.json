@@ -1,14 +1,13 @@
 ﻿{
-    "version":  "1.0.2",
+    "version":  "1.0.10",
     "changelog":  [
-                      "Versienummer zichtbaar in de titelbalk",
-                      "Quick setup voor keybinds",
-                      "?-uitleg bij elke macro",
-                      "Volledig scherm (knop en F11)",
-                      "Keybind-teksten overlappen niet meer",
-                      "Toets instellen start geen macro meer",
-                      "Vraagt om op te slaan bij afsluiten"
+                      "Auto set keybinds: leest je toetsen uit Fortnite (alleen lezen)",
+                      "Uitleg over secondary keybinds en aanbevolen vrije toetsen",
+                      "Layout schaalt mee met je scherm (125%/150%)",
+                      "Afgeronde scrollbalken, ?-uitleg bij elke macro, volledig scherm (F11)",
+                      "Kruisje sluit de app volledig af",
+                      "Crosshair-pagina en knoppen passen weer"
                   ],
-    "url":  "https://github.com/pjvugt-art/k3ysss/releases/download/v1.0.2/K3ysss.exe",
-    "sha256":  "24223B5F11EC364B14BAD4284E2CC8CA9BE3008E23C83D7BEE72756EF62096C2"
+    "url":  "https://github.com/pjvugt-art/k3ysss/releases/download/v1.0.10/K3ysss.exe",
+    "sha256":  "0DBBADA937794658F7C27AAAFE8575722AACEFA80251B9CE3748034562C1A147"
 }
